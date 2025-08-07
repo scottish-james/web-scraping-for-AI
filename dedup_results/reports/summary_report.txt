@@ -1,0 +1,27 @@
+Content Deduplication Analysis Report
+=========================================
+
+Dataset Overview:
+- Total files analyzed: 49
+- Average content length: 8203 characters
+- Content size range: 2,219 - 17,153 characters
+
+Duplicate Content:
+- Duplicate groups found: 0
+- Redundant files: 0 (0.0%)
+- Unique content files: 49
+
+URL Validation:
+- Broken URLs (4xx/5xx): 0
+- Redirected URLs: 0
+- Network errors: 1
+
+Content Sections:
+- business: 15.0 files (avg 8859 chars)
+- corporates: 14.0 files (avg 8369 chars)
+- investments: 1.0 files (avg 2642 chars)
+- mortgages: 2.0 files (avg 11704 chars)
+- premier-banking: 1.0 files (avg 10667 chars)
+- privacy-policy.html: 1.0 files (avg 5047 chars)
+- support-centre: 14.0 files (avg 7295 chars)
+- unknown: 1.0 files (avg 7996 chars)

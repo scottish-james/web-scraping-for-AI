@@ -1,0 +1,10 @@
+2025-08-06 21:21:11,759 - content_dedup - INFO - run_full_analysis:518 - Starting complete deduplication analysis
+2025-08-06 21:21:11,760 - content_dedup - INFO - load_markdown_files:123 - Loading markdown files from: ./natwest_markdown_cleaning
+2025-08-06 21:21:11,760 - content_dedup - INFO - load_markdown_files:132 - Found 50 markdown files
+2025-08-06 21:21:11,795 - content_dedup - INFO - load_markdown_files:142 - Successfully loaded 49 files
+2025-08-06 21:21:11,795 - content_dedup - INFO - find_exact_duplicates:238 - Detecting exact content duplicates
+2025-08-06 21:21:11,795 - content_dedup - INFO - find_exact_duplicates:248 - Found 0 duplicate groups, 0 redundant files
+2025-08-06 21:21:11,795 - content_dedup - INFO - validate_urls:254 - Validating 49 URLs
+2025-08-06 21:21:31,811 - content_dedup - INFO - generate_reports:408 - Generating reports and file lists
+2025-08-06 21:21:31,840 - content_dedup - INFO - clean_content_files:355 - Cleaning 48 files
+2025-08-06 21:21:31,858 - content_dedup - INFO - run_full_analysis:540 - Analysis complete

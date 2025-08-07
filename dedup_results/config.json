@@ -1,0 +1,12 @@
+{
+  "source_dir": "./natwest_markdown_cleaning",
+  "output_dir": "./dedup_results",
+  "min_content_length": 100,
+  "similarity_threshold": 0.85,
+  "max_workers": 8,
+  "request_delay": 2.0,
+  "request_timeout": 15,
+  "max_retries": 3,
+  "content_marker": "### Didn't find what you were looking for?",
+  "backup_original": true
+}
